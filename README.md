@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @sgichana
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning JavaScript..
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Sylvia Gichana
+- 👀 I’m interested in Data Engineering 
+- 🌱 I’m currently studying Computer Science at University of Houston - Clear Lake
 - 📫 How to reach me sgichana@gmail.com.
 
 <!---
